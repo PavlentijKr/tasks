@@ -1,0 +1,15 @@
+/Users/krylov-pi/Documents/tasks/bin/Debug/net5.0/tasks.deps.json
+/Users/krylov-pi/Documents/tasks/bin/Debug/net5.0/tasks.runtimeconfig.json
+/Users/krylov-pi/Documents/tasks/bin/Debug/net5.0/tasks.runtimeconfig.dev.json
+/Users/krylov-pi/Documents/tasks/bin/Debug/net5.0/tasks.dll
+/Users/krylov-pi/Documents/tasks/bin/Debug/net5.0/ref/tasks.dll
+/Users/krylov-pi/Documents/tasks/bin/Debug/net5.0/tasks.pdb
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/tasks.csproj.AssemblyReference.cache
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/tasks.AssemblyInfoInputs.cache
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/tasks.AssemblyInfo.cs
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/tasks.csproj.CoreCompileInputs.cache
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/tasks.dll
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/ref/tasks.dll
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/tasks.pdb
+/Users/krylov-pi/Documents/tasks/obj/Debug/net5.0/tasks.genruntimeconfig.cache
